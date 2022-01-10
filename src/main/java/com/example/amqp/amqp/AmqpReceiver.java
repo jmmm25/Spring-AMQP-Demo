@@ -1,4 +1,4 @@
-package com.example.amqp;
+package com.example.amqp.amqp;
 
 import com.example.amqp.config.AmqpConfig;
 import com.example.amqp.domain.Information;
